@@ -1,0 +1,11 @@
+{
+  "name": "uiproj1",
+  "version": "1.0.0",
+  "description": "samll app for tracking work status",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Henga",
+  "license": "ISC"
+}
